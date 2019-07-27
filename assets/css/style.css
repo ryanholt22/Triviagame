@@ -1,0 +1,9 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container {
+    size: 50%;
+    background-color:rgba(255, 0, 0, 0.705);
+}
