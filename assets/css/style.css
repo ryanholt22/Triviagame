@@ -6,4 +6,7 @@ body {
 .container {
     size: 50%;
     background-color:rgba(255, 0, 0, 0.705);
+    color: gold;
+    width: 800px;
+    transform: translateX(350px);
 }
