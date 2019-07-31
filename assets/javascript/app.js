@@ -55,3 +55,6 @@ $("#eight").on("click", function () {
 });
 
 //i dont plan on keeping these alerts, just easier for me to use when im done with the rest of the coding so i know which are correct and incorrect
+
+/* so the things i dont have done so far would be setting up variables to hold each button click,
+also i need to make an alert that shows how many were correct and incorrect, and delete the other alerts.*/
